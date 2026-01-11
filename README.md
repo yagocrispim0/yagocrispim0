@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yagocrispim0
 - 👀 I’m interested in becoming a full time software developer.
-- Python | PHP | C# 
-- Django | Asp.Net
+- PHP | Python | C# 
+- Laravel | Django | Asp.Net
 - SQL | MySQL
 - 📫 Reach me at my Linkedin page! https://www.linkedin.com/in/yago-crispim-gomes-104a7b106/
